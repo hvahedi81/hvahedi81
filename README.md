@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Seyedhamed Vahedi</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [NOET](www.sanjesh.org)
+- 🔭 I’m currently working on [NOET](https://www.sanjesh.org)
 
 - 🌱 I’m currently learning **Databases, Data analysis, C#, etc**
 
-- 👨‍💻 All of my projects are available at [www.hamedvahedi.com](www.hamedvahedi.com)
+- 👨‍💻 All of my projects are available at [www.hamedvahedi.com](https://www.hamedvahedi.com)
 
-- 📝 I regularly write articles on [www.hamedvahedi.com](www.hamedvahedi.com)
+- 📝 I regularly write articles on [www.hamedvahedi.com](https://www.hamedvahedi.com)
 
 - 💬 Ask me about **TSQL, C#**
 
