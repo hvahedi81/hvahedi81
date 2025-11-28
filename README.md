@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NOET](https://www.sanjesh.org)
 
-- 🌱 I’m currently learning **Databases, Data analysis, C#, etc**
+- 🌱 I’m currently learning **Databases, Data analysis, C# and so on**
 
 - 👨‍💻 All of my projects are available at [www.hamedvahedi.com](https://www.hamedvahedi.com)
 
