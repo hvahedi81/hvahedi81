@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seyedhamed Vahedi</h1>
-<h3 align="center">I am a Senior Software Engineer and Database Architect with a Master's degree and over a decade of experience in sculpting high-performance, data-driven business systems.
-My expertise lies at the powerful intersection of advanced programming, large-scale data management, and business logic. I specialize in turning complex data into strategic assets through SQL Server optimization, big data analytics, and robust system architecture.</h3>
+<h4>I am a Senior Software Engineer and Database Architect with a Master's degree and over a decade of experience in sculpting high-performance, data-driven business systems.
+My expertise lies at the powerful intersection of advanced programming, large-scale data management, and business logic. I specialize in turning complex data into strategic assets through SQL Server optimization, big data analytics, and robust system architecture.</h4>
 
 - 🔭 I’m currently working on [NOET](https://www.sanjesh.org)
 
